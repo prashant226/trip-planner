@@ -1,43 +1,3 @@
-# [Travel Itinerary Generator](https://sanjeev02.pythonanywhere.com)
-***
-
-[![GitHub license](https://img.shields.io/github/license/Sanjeev-Kumar78/Travel-Itinerary-Generator)](LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/Sanjeev-Kumar78/Travel-Itinerary-Generator)]()
-[![GitHub contributors](https://img.shields.io/github/contributors/Sanjeev-Kumar78/Travel-Itinerary-Generator)]()
-[![GitHub last-commit](https://img.shields.io/github/last-commit/Sanjeev-Kumar78/Travel-Itinerary-Generator)]()
-
-
-<img title="Travel-Itinerary-Generator" align='right' src="/static/logo.svg" alt="Travel Itinerary Generator Logo" width="150"/>
-
-Plan your dream trip effortlessly with the Travel Itinerary Generator! This powerful trip planner is your ultimate companion for crafting seamless travel experiences. Whether you're embarking on a road trip, city excursion, or overseas adventure, our tool simplifies the entire planning process.
-
-## Sample:
-https://github.com/Sanjeev-Kumar78/Travel-Itinerary-Generator/assets/62820550/d55374a9-41bd-4454-8c2b-4f037b1f010b
-
-
-
-
-<p align="center">
-Make your travel dreams a reality. Start planning your next adventure with the Travel Itinerary Generator today!
-</p>
-<p align="center">
-<i>Explore, discover, and make every trip unforgettable.*</i>
-</p>
-
-## Table of Contents
-
-- [Travel Itinerary Generator](#travel-itinerary-generator)
-  - [Sample:](#sample)
-  - [Table of Contents](#table-of-contents)
-  - [About](#about)
-  - [Limitations \& Future Work](#limitations--future-work)
-  - [Features](#features)
-  - [Requirements](#requirements)
-  - [Setup and Installation](#setup-and-installation)
-  - [API Keys](#api-keys)
-  - [Usage](#usage)
-  - [Screenshots](#screenshots)
-  - [License](#license)
 
 ## About
 
@@ -93,30 +53,4 @@ Run the following command to start the application:
 ```shell
 python wsgi.py
 ```
-
-## Screenshots
-
-**Home Page of Travel Itinerary Generator without Login.**
-![image](https://github.com/Sanjeev-Kumar78/Travel-Itinerary-Generator/assets/62820550/a5e0f1c9-b0c4-4c1b-ba50-1a0b6c2a56bf)
-
-
-**Register Page / Sign Up**
-![image-1](https://github.com/Sanjeev-Kumar78/Travel-Itinerary-Generator/assets/62820550/2c2f90ff-c81d-48e6-a64f-ed71a1485cc8)
-
-
-**Login Page**
-![image-2](https://github.com/Sanjeev-Kumar78/Travel-Itinerary-Generator/assets/62820550/7f50219b-546a-43d0-83bd-ca5d2262c261)
-
-
-**For Testing, I have taken Source Point as Varanasi & Destination as Mumbai, Starting Date of Journey: 06/11/2023, Return Date: 10/11/2023**
-![image-3](https://github.com/Sanjeev-Kumar78/Travel-Itinerary-Generator/assets/62820550/9b429e5a-722c-4d0c-ae39-b4e64440a34a)
-
-
-**Itinerary Page**
-![image-4](https://github.com/Sanjeev-Kumar78/Travel-Itinerary-Generator/assets/62820550/9f91a253-7ab8-4211-9b58-0a843cc66f0e)
-
-
-## License
-
-This project is licensed under the [Apache License 2.0](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
